@@ -1,15 +1,27 @@
 - [X] types of ai
-    - [ ] Artificial Narrow AI
-    - [ ] General AI
-    - [ ] Super AI
-    - [ ] Reactive Machine AI
-    - [ ] Limited Memory AI
-    - [ ] Theory of Mind AI
-    - [ ] Self-Aware AI
+    - [X] Artificial Narrow AI
+        - [ ] Virtual assistant
+        - [ ] Recommendation system
+        - [ ] autonomous vehicles
+        - [ ] ai algorithm diagnostic
+        - [ ] finance ai
+        - [ ] manufacturing ai
+    - [X] General AI
+        - AGI
+    - [X] Super AI
+        - AGI on steroids
+    - [X] Reactive Machine AI
+    - [X] Limited Memory AI
+        - [ ] Intelligent modeling
+        - [ ] Deep learning algorithms
+        - [ ] Neural networks
+        - [ ] Recurrent neural networks
+        - [ ] Long Short-Term Memory
+        - [ ] Convolutional Neural Netowrks
+    - [X] Theory of Mind AI
+    - [X] Self-Aware AI
 - [X] biggest ai companies
-    - [ ] Microsoft
-    - [ ] Alphabet
-    - [ ] NVIDIA
-    - [ ] Meta
-    - [ ] Tesla
-    - [ ] IBM
+    - [ ] DeepMind
+    - [ ] OpenAI
+    - [ ] Meta AI
+    - [ ] Google AI
