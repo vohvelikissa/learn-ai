@@ -1,11 +1,14 @@
 - [X] types of ai
     - [X] Artificial Narrow AI
-        - [ ] Virtual assistant
-        - [ ] Recommendation system
-        - [ ] autonomous vehicles
-        - [ ] ai algorithm diagnostic
-        - [ ] finance ai
-        - [ ] manufacturing ai
+        - [X] Recommendation system
+            - [ ] Explicit feedback
+            - [ ] implicit feedback
+            - [ ] content based filtering
+            - [ ] collaborative filtering, PMF, SVD, SVD++
+            - [ ] matrix factorization
+            - [ ] LightFM
+        - [X] autonomous vehicles
+            - [ ] look at the long list of algorithms in the pdf you just downloaded
     - [X] General AI
         - AGI
     - [X] Super AI
