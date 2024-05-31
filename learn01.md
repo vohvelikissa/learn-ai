@@ -1,2 +1,15 @@
-- [ ] types of ai
-- [ ] biggest ai companies
+- [X] types of ai
+    - [ ] Artificial Narrow AI
+    - [ ] General AI
+    - [ ] Super AI
+    - [ ] Reactive Machine AI
+    - [ ] Limited Memory AI
+    - [ ] Theory of Mind AI
+    - [ ] Self-Aware AI
+- [X] biggest ai companies
+    - [ ] Microsoft
+    - [ ] Alphabet
+    - [ ] NVIDIA
+    - [ ] Meta
+    - [ ] Tesla
+    - [ ] IBM
