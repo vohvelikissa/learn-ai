@@ -1,0 +1,2 @@
+- [ ] types of ai
+- [ ] biggest ai companies
