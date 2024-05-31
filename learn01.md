@@ -24,7 +24,30 @@
     - [X] Theory of Mind AI
     - [X] Self-Aware AI
 - [X] biggest ai companies
-    - [ ] DeepMind
-    - [ ] OpenAI
-    - [ ] Meta AI
-    - [ ] Google AI
+    - [X] OpenAI
+        - [ ] Sora
+        - [ ] ChatGPT
+        - [ ] Dall-E
+    - [X] Meta AI
+        - [ ] Llama
+    - [X] Google AI
+        - [ ] Vertex AI Studio
+        - [ ] Vertex AI Agent Builder
+        - [ ] Generative AI Document Summarization
+        - [ ] Vertex AI Platform
+        - [ ] Vertex AI Notebooks
+        - [ ] AutoML
+        - [ ] Natural Language AI
+        - [ ] Speech-to-Text
+        - [ ] Text-to-Speech
+        - [ ] Translation AI
+        - [ ] Vision AI
+        - [ ] Video AI
+        - [ ] Document AI
+        - [ ] Dialogflow
+        - [ ] Contact Center AI
+        - [ ] Gemini Code Assist
+        - [ ] TPUs, GPUs and CPUs
+        - [ ] Google Kubernetes Engine
+        - [ ] AI Readiness Program
+        - [ ] Gemini
