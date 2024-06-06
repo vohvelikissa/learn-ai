@@ -50,4 +50,7 @@
         - [ ] TPUs, GPUs and CPUs
         - [ ] Google Kubernetes Engine
         - [ ] AI Readiness Program
-        - [ ] Gemini
+        - [X] Gemini
+            - [ ] make a thing that uses image recognition of gemini
+            - [ ] make a thing that uses the text generation of gemini
+            - [ ] make a thing that uses the image generation of gemini
