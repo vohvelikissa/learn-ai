@@ -25,9 +25,12 @@
     - [X] Self-Aware AI
 - [X] biggest ai companies
     - [X] OpenAI
-        - [ ] Sora
-        - [ ] ChatGPT
-        - [ ] Dall-E
+        - [X] Sora
+            - [ ] use this for something
+        - [X] ChatGPT
+            - [ ] use this for something
+        - [X] Dall-E
+            - [ ] use this for something
     - [X] Meta AI
         - [X] Llama
             - [ ] use the api to make some app
