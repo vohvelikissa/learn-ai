@@ -1,26 +1,30 @@
 - [X] types of ai
     - [X] Artificial Narrow AI
         - [X] Recommendation system
-            - [ ] Explicit feedback
-            - [ ] implicit feedback
-            - [ ] content based filtering
-            - [ ] collaborative filtering, PMF, SVD, SVD++
-            - [ ] matrix factorization
-            - [ ] LightFM
+            - [X] Explicit feedback
+            - [X] implicit feedback
+            - [X] content based filtering
+            - [X] collaborative filtering, PMF, SVD, SVD++
+                - [ ] use stable video diffusion for something
+                - [ ] use jas00n/svdpp for something
+            - [X] matrix factorization
+                - [ ] use this for something
+            - [X] LightFM
+                - [ ] use this for something
         - [X] autonomous vehicles
-            - [ ] look at the long list of algorithms in the pdf you just downloaded
+            - [X] look at the long list of algorithms in the pdf you just downloaded
     - [X] General AI
         - AGI
     - [X] Super AI
         - AGI on steroids
     - [X] Reactive Machine AI
     - [X] Limited Memory AI
-        - [ ] Intelligent modeling
-        - [ ] Deep learning algorithms
-        - [ ] Neural networks
-        - [ ] Recurrent neural networks
-        - [ ] Long Short-Term Memory
-        - [ ] Convolutional Neural Netowrks
+        - [X] Intelligent modeling
+        - [X] Deep learning algorithms
+        - [X] Neural networks
+        - [X] Recurrent neural networks
+        - [X] Long Short-Term Memory
+        - [X] Convolutional Neural Netowrks
     - [X] Theory of Mind AI
     - [X] Self-Aware AI
 - [X] biggest ai companies
