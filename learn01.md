@@ -29,7 +29,8 @@
         - [ ] ChatGPT
         - [ ] Dall-E
     - [X] Meta AI
-        - [ ] Llama
+        - [X] Llama
+            - [ ] use the api to make some app
     - [X] Google AI
         - [X] Vertex AI Studio
             - [ ] use this for something
