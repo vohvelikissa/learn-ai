@@ -31,25 +31,50 @@
     - [X] Meta AI
         - [ ] Llama
     - [X] Google AI
-        - [ ] Vertex AI Studio
-        - [ ] Vertex AI Agent Builder
-        - [ ] Generative AI Document Summarization
-        - [ ] Vertex AI Platform
-        - [ ] Vertex AI Notebooks
-        - [ ] AutoML
-        - [ ] Natural Language AI
-        - [ ] Speech-to-Text
-        - [ ] Text-to-Speech
-        - [ ] Translation AI
-        - [ ] Vision AI
-        - [ ] Video AI
-        - [ ] Document AI
-        - [ ] Dialogflow
-        - [ ] Contact Center AI
-        - [ ] Gemini Code Assist
-        - [ ] TPUs, GPUs and CPUs
-        - [ ] Google Kubernetes Engine
-        - [ ] AI Readiness Program
+        - [X] Vertex AI Studio
+            - [ ] use this for something
+        - [X] Vertex AI Agent Builder
+            - [ ] use this for something
+        - [X] Generative AI Document Summarization
+            - [ ] use this for something
+        - [X] Vertex AI Platform
+            - [ ] use this for something
+        - [X] Vertex AI Notebooks
+            - [ ] use this for something
+        - [X] AutoML
+            - [ ] train a model for something using google automl
+        - [X] Natural Language AI
+            - [ ] make an app that uses insights instantly
+        - [X] Speech-to-Text
+            - [ ] use this for something
+        - [X] Text-to-Speech
+            - [ ] use this for something
+        - [X] Translation AI
+            - [ ] use this for something
+        - [X] Vision AI
+            - [ ] use this for somehting
+        - [X] Video AI
+            - [ ] make a precise video analysis
+            - [ ] make a video app
+            - [ ] manage media
+        - [X] Document AI
+            - [ ] create something with this
+        - [X] Dialogflow
+            - [ ] use Dialogflow ES
+            - [ ] use Dialogflow CX
+        - [X] Contact Center AI
+            - [ ] create something with this
+        - [X] Gemini Code Assist
+            - [ ] create a code assist equivalent for neovim with gemini api
+        - [X] TPUs, GPUs and CPUs
+            - [ ] use TPU v5e
+            - [ ] use TPU v5p
+        - [X] Google Kubernetes Engine
+            - [ ] make a cluster
+            - [ ] use a gpu with it
+            - [ ] use a tpu with it
+        - [X] AI Readiness Program
+            - this looks like a workshop that I do not need
         - [X] Gemini
             - [ ] make a thing that uses image recognition of gemini
             - [ ] make a thing that uses the text generation of gemini
